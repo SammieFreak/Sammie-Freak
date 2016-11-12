@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title>Welcome to Gravity Falls!</title>
+    <meta charset="utf-8"/>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+    <header>
+      <h1 class="page-title">Welcome to Gravity Falls!</h1>
+      <p class="page-description">Gravity Falls. A place full a wonder, mystery, and gnomes. Uncover the mysteries of Gravity Falls with Dipper and Mabel Pines. </p>
+    </header>
+
+    <div class="gallery">
+      <figure class="gallery-item">
+        <img class="thumbnail" src="http://66.media.tumblr.com/11da5bb0f1bcdfcc9cdb788c5077643b/tumblr_inline_nygmf9YebC1tsybr4_500.gif">
+      </figure>
+      <figure class="gallery-item">
+        <img class="thumbnail" src="https://65.media.tumblr.com/5f7d1ececc1eadc5268a3a992094bdb7/tumblr_nu806yiF3D1udm6uro1_400.png">
+      </figure>
+      <figure class="gallery-item">
+        <img class="thumbnail" src="https://66.media.tumblr.com/e3f32ad1a79a2b698f3e7948efc72b6f/tumblr_nraoxknFQF1rogx6xo1_500.png">
+      </figure>
+      <figure class="gallery-item">
+        <img class="thumbnail" src="http://65.media.tumblr.com/1d7cccc1b05f8602e9d1f0c6c3b64223/tumblr_inline_ngoy6h35Bv1rujz3w.gif">
+      </figure>
+      <figure class="gallery-item">
+        <img class="thumbnail" src="https://67.media.tumblr.com/2c4434dfdc61705c0a89cfaf7a495f9c/tumblr_n75epiCjEn1rz7r1io2_r1_500.png" height=400 length=300>
+      </figure>
+      <figure class="gallery-item">
+        <img class="thumbnail" src="https://67.media.tumblr.com/954475d3a4e0104f5eb6159cefa7dd8c/tumblr_o2jfibIGsm1uv71q3o2_r3_500.png" height=300 length=300>
+      </figure>
+    </div>
+  <p> Reality is an <a href="http://gravityfalls.wikia.com/wiki/Gravity_Falls_Wiki">illusion</a> , the
+     
+  </body>
+</html>
